@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\Visual Studio repos\BrickBreaker1\BrickBreaker1\Source.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Visual Studio repos\BrickBreaker1\BrickBreaker1\Source.cpp(14,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Visual Studio repos\BrickBreaker1\BrickBreaker1\Source.cpp(14,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Visual Studio repos\BrickBreaker1\BrickBreaker1\Source.cpp(132,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Visual Studio repos\BrickBreaker1\BrickBreaker1\Source.cpp(439,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio repos\BrickBreaker1\BrickBreaker1\Source.cpp(727,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Visual Studio repos\BrickBreaker1\BrickBreaker1\Source.cpp(1733,20): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  BrickBreaker1.vcxproj -> D:\Visual Studio repos\BrickBreaker1\Debug\BrickBreaker1.exe
