@@ -23,3 +23,4 @@ Brick Breaker is an old-school bat and ball game developed in C++. The objective
 ![brick](https://github.com/MoosaImran50/Brick-Breaker/assets/105555466/bf58bdf9-a5e3-4d6a-82e2-55008002ca96)
 ![Screenshot (422)](https://github.com/MoosaImran50/Brick-Breaker/assets/108832275/bb162efd-ef25-4350-a70d-7d47ec0e7118)
 ![Screenshot (420)](https://github.com/MoosaImran50/Brick-Breaker/assets/108832275/74985703-d9f3-482a-8ae4-8f19d0bac0d2)
+![Screenshot 2023-06-20 234842](https://github.com/MoosaImran50/Brick-Breaker/assets/108832275/e57667eb-5d7f-40db-85e0-41eb39cfd9b0)
